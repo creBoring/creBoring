@@ -9,8 +9,7 @@
 
 ## 🌱 Interested in
 - AWS, Kubernetes, Docker
-- Java, Spring, AOP
-- Iaas, AWS CloudFormation, Terraform
+- IaaC, Terraform
 
 ## 📫 Certificate
 
