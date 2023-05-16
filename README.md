@@ -4,8 +4,8 @@
 
 
 ## 💻 Experience
-- Saltware | 2017.09 ~ 2021.07 | Cloud Engineer
 - Saltware | 2021.07 ~ | FinOps Web Developer
+- Saltware | 2017.09 ~ 2021.07 | Cloud Engineer
 
 ## 🌱 Interested in
 - AWS, Kubernetes, Docker
