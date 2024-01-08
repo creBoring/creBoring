@@ -4,6 +4,7 @@
 
 
 ## 💻 Experience
+- Remember | 2024.01 ~ current | DevOps Engineer
 - Saltware | 2021.07 ~ 2023.12 | FinOps Web Developer
 - Saltware | 2017.09 ~ 2021.06 | Cloud Engineer
 
